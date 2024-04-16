@@ -21,14 +21,14 @@ if __name__ == "__main__":
 
     print("=========================================================================")
 
-    print("GA_2 :")
+    '''print("GA_2 :")
     start_time = time.time()
     dane_load_and_create("./environment1.yaml", random_seed)
     end_time = time.time()
     execution_time = end_time - start_time
     print("TIEMPO DE EJECUCION (ms) GA_2:", execution_time)
 
-    print("=========================================================================")
+    print("=========================================================================")'''
 
     print("GA_3:")
     start_time_p = time.time()
